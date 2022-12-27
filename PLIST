@@ -1,4 +1,4 @@
-@comment $NetBSD$
+@comment $NetBSD: PLIST,v 1.1 2022/12/27 16:11:00 schmonz Exp $
 bin/asdf
 share/asdf/asdf.elv
 share/asdf/asdf.fish

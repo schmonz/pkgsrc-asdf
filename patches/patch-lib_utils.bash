@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-lib_utils.bash,v 1.1 2022/12/27 16:11:01 schmonz Exp $
 
 Use pkgsrc paths.
 

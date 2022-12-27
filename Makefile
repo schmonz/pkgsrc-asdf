@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2022/12/27 16:11:00 schmonz Exp $
 
 DISTNAME=		asdf-0.11.0
 CATEGORIES=		devel
